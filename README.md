@@ -14,7 +14,7 @@ A modern and responsive personal portfolio website to showcase my projects, skil
 ---
 
 ## 📸 Preview
-![Portfolio Preview](portfolio.png)
+![Portfolio Preview](images/portfolio.png)
 
 ---
 
