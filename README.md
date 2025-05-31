@@ -26,4 +26,4 @@ A modern and responsive personal portfolio website to showcase my projects, skil
 
 ---
 
-## Made with Shristi❤️
+## Made by Shristi❤️
